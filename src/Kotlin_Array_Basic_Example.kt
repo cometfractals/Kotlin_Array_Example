@@ -21,7 +21,7 @@ fun main(args: Array<String>){
 
 }
 
-// This program code is general purpsose basic example that setups up an array in Kotlin. This code works as is and has been run
+// This program code is general purpose basic example that setups up an array in Kotlin. This code works as is and has been run
 // successfully. This program will run within the IntelliJ IDEA IDE(Integration Development Environment). This code is written on
 // IntelliJ IDEA Community 2020.1 Runtime version: 11.0.6+8-b765.40 amd64 and will run on other similar versions as is.
 // Make an empty Kotlin Project and put in an empty Kotlin file/class, paste this code into the empty class and
